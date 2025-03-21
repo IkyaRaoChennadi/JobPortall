@@ -42,9 +42,6 @@ https://jobportall-3ww3.onrender.com
 🚀 Backend API Base URL: Job Portal Backend
 
 🔗 API Endpoints
-Authentication
-POST https://jobportall-3ww3.onrender.com/api/auth/register - Register a new user
-POST https://jobportall-3ww3.onrender.com/api/auth/login - Login and get JWT
 Jobs
 GET https://jobportall-3ww3.onrender.com/api/jobs - Get all job listings
 POST https://jobportall-3ww3.onrender.com/api/jobs - Create a new job (Authenticated)
